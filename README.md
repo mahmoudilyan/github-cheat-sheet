@@ -312,6 +312,8 @@ The top 5 used Ejmojis on GitHub are:
 4. :+1: - `:+1:`
 5. :clap: - `:clap:`
 
+
+
 ### Images/GIFs
 Images and GIFs can be added to comments, READMEs etc.:
 
